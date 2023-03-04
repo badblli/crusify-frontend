@@ -19,10 +19,6 @@
     "next": "13.2.3",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "sass": "^1.58.3",
-    "sass-loader": "^13.2.0"
-  },
-  "devDependencies": {
-    "@zeit/next-sass": "^1.0.1"
+    "sass": "^1.58.3"
   }
 }
